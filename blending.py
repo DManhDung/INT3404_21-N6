@@ -11,7 +11,7 @@ Original file is located at
 import numpy as np
 import math,cv2
 
-PATH = '/INT3404_21-N6/Motherboard-hardware/'
+PATH = '/INT3404_21-N6/image_data/'
 OUTPATH = '/INT3404_21-N6/result_blending/'
 pi = math.pi
 
